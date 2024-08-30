@@ -1,4 +1,10 @@
 # Watermill Kafka Pub/Sub
+
+!!! This is a fork with no levels of support !!!1!
+
+In this fork, a batching mechanism will be added, so multiple messages can be handled at once.
+
+
 <img align="right" width="200" src="https://threedots.tech/watermill-io/watermill-logo.png">
 
 [![CI Status](https://github.com/ThreeDotsLabs/watermill-kafka/actions/workflows/master.yml/badge.svg)](https://github.com/ThreeDotsLabs/watermill-kafka/actions/workflows/master.yml)
